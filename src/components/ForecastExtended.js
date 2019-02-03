@@ -21,7 +21,7 @@ const data = {
 */
 
 export const api_key  = "8bb874e84bc9e8c56386bf66522a08c3";
-export const url = "http://api.openweathermap.org/data/2.5/forecast";
+export const url = "https://api.openweathermap.org/data/2.5/forecast";
 
 class ForecastExtended extends Component {
 
